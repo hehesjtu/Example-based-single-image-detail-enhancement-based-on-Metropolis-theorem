@@ -1,5 +1,5 @@
 # Example-based-single-image-detail-enhancement-based-on-Metropolis-theorem
-This is a physical-based or example-based signle image or video detail enhancement algorithm/method
+This is the source code of paper "Example-based image detail enhancement via Metropolis theorem". This is a physical-based or example-based signle image or video detail enhancement method
 
 Put your original images in the folder named data, and run the ELL_demo.m to start this project, then you will get the enhanced images in the folder named results
 
